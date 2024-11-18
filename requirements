@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+spacy
+faiss-cpu
+transformers
+sentence-transformers
+wikipedia-api
+wikipedia
